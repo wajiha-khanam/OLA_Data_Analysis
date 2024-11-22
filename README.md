@@ -62,7 +62,7 @@ The interactive Power BI dashboard provides a comprehensive view of the data. It
 
 ## How to Use
 1. Clone the repository to your local system:
-git clone https://github.com/wajiha-khanam/OLA--Data-Analysis
+-> git clone https://github.com/wajiha-khanam/OLA--Data-Analysis
 2. Open the SQL folder to explore queries and results.
 3. Open the Power BI folder to interact with the dashboard (ola_dashboard.pbix).
 4. Review the README.md for detailed documentation.
