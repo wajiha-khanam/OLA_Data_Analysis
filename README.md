@@ -1,4 +1,4 @@
-# OLA--Data-Analysis
+# OLA_Data_Analysis
 
 ## Project Overview
 This project involves an in-depth analysis of ride data from an Ola Database. Using SQL and Power BI, I answered key business and operational questions to uncover insights about booking patterns, customer behavior, ride performance, and driver ratings. The project also includes a Power BI dashboard for effective data visualization and storytelling.
